@@ -32,7 +32,7 @@ No API key or network call is needed. Everything runs locally.
 
 ```bash
 git clone <your-repo-url>
-cd ai-engineer-journey/day01-token-lab/TokenLab
+cd ai-engineer-journey/TokenLab
 dotnet restore
 dotnet run
 ```
@@ -123,8 +123,4 @@ day01-token-lab/
 
 ---
 
-## Journey
 
-Part of an 84-day roadmap to move from .NET developer to AI engineer, covering LLM fundamentals, Microsoft.Extensions.AI, RAG, agents, MCP, evaluation, security, observability, and production deployment.
-
-**Next:** Day 02, embeddings and cosine similarity.
